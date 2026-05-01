@@ -8,7 +8,7 @@ const ADMIN_USERS = [
   {
     email: 'gary@more2xplore.co.za',
     // Default password: "m2xadmin2024" — change this immediately after setup
-    passwordHash: '$2a$10$XGhQ5gJqH5EcqICjZP3J8eK9yV3F0IfN4iM9IfhpE6CzVsYTn8h6e',
+    passwordHash: '$2a$10$l2Xx7.CD8kRIyVmLCMBEcuaqdcOZzuMG8z1yE3G1CVgD5md0xRSxi',
   },
 ]
 
