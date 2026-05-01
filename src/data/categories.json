@@ -1,0 +1,15 @@
+[
+  { "id": "sofas-seating", "name": "Sofas & Seating", "sortOrder": 1 },
+  { "id": "ottomans", "name": "Ottomans", "sortOrder": 2 },
+  { "id": "tables-plinths", "name": "Tables & Plinths", "sortOrder": 3 },
+  { "id": "chairs-barstools", "name": "Chairs & Bar Stools", "sortOrder": 4 },
+  { "id": "bar-solutions", "name": "Bar Solutions", "sortOrder": 5 },
+  { "id": "shelves-displays", "name": "Shelves & Displays", "sortOrder": 6 },
+  { "id": "backdrops-arches", "name": "Backdrops & Arches", "sortOrder": 7 },
+  { "id": "decor-vases", "name": "Décor & Vases", "sortOrder": 8 },
+  { "id": "lighting", "name": "Lighting", "sortOrder": 9 },
+  { "id": "technical", "name": "Technical (Sound/AV)", "sortOrder": 10 },
+  { "id": "screens", "name": "Screens", "sortOrder": 11 },
+  { "id": "fun-activations", "name": "Fun Activations", "sortOrder": 12 },
+  { "id": "miscellaneous", "name": "Miscellaneous", "sortOrder": 13 }
+]

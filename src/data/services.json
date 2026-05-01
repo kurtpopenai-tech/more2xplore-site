@@ -1,0 +1,51 @@
+[
+  {
+    "id": "event-implementation",
+    "title": "Event Implementation",
+    "description": "Formal and main market activations. POS management: supply, store, transport and setup. Theme creation and mood boards. Activation photographs and feedback reports.",
+    "icon": "CalendarCheck"
+  },
+  {
+    "id": "sound-lighting",
+    "title": "Sound & Lighting",
+    "description": "In-house AV, sound, and lighting services. Small to large scale: sound, lighting, AV, flooring, and staging for any event.",
+    "icon": "Speaker"
+  },
+  {
+    "id": "event-concept",
+    "title": "Event Concept & Management",
+    "description": "Strategy and target market planning. Database and invitation management. Social media design and marketing. Full implementation by our hands-on team.",
+    "icon": "Lightbulb"
+  },
+  {
+    "id": "brand-activations",
+    "title": "Brand Activations",
+    "description": "Branding logistics and setup. Precision activation concept and management. Brand visibility and awareness. DJs, MCs, entertainment and mobile bar services.",
+    "icon": "Megaphone"
+  },
+  {
+    "id": "brand-ambassadors",
+    "title": "Brand Ambassadors & Staffing",
+    "description": "Professional event and promotional staffing solutions. Feedback reports and photography. Post-activation presentations with comprehensive reporting.",
+    "icon": "Users"
+  },
+  {
+    "id": "equipment-rental",
+    "title": "Equipment Rental",
+    "description": "Full furniture, décor, lighting, and bar solution hire for corporate events, weddings, and personal use. Browse our extensive catalogue below.",
+    "icon": "Package",
+    "linkTo": "rentals"
+  },
+  {
+    "id": "outlet-management",
+    "title": "Outlet Management",
+    "description": "Outlet trade visits and reporting. Promotional calls and POS setup. Ongoing brand presence management at point of sale.",
+    "icon": "Store"
+  },
+  {
+    "id": "branding-production",
+    "title": "Branding & Production",
+    "description": "Graphic design, vinyl print and application, photography, videography. Collateral production, menu design, desk drops and more.",
+    "icon": "Palette"
+  }
+]
